@@ -1,0 +1,85 @@
+{
+    "workbench.iconTheme": "material-icon-theme",
+	"workbench.panel.defaultLocation": "right",
+    "[python]": {
+        "editor.formatOnType": true
+    },
+    "editor.inlineSuggest.enabled": true,
+    "redhat.telemetry.enabled": false,
+    "cmake.configureOnOpen": true,
+    "workbench.colorTheme": "Hack The Box",
+    "[json]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "[javascript]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "editor.insertSpaces": false,
+	"editor.detectIndentation": false,
+	"editor.fontFamily": "Fira Code",
+	"editor.fontLigatures": true,
+	"window.commandCenter": true,
+	"editor.minimap.autohide": "mouseover",
+	"editor.minimap.enabled": true,
+	"editor.minimap.renderCharacters": false,
+	"editor.minimap.scale": 1,
+	"editor.minimap.showSlider": "mouseover",
+	"editor.minimap.side": "right",
+	"editor.cursorBlinking": "solid",
+	"editor.cursorStyle":"line",
+	"editor.cursorSmoothCaretAnimation": "off",
+	"editor.cursorSurroundingLines": 10,
+	"editor.cursorSurroundingLinesStyle": "default",
+	"workbench.colorCustomizations": {
+	"editorCursor.background": "#ffffff",
+	"editorCursor.foreground": "#fafafa",
+	},
+	"editor.occurrencesHighlight": "singleFile",
+	"editor.wordWrap": "on",
+	"editor.codeLens": true,
+	"files.trimTrailingWhitespace": true,
+	"security.workspace.trust.banner": "never",
+	"security.workspace.trust.emptyWindow": true,
+	"security.workspace.trust.enabled": false,
+	"security.workspace.trust.startupPrompt": "never",
+
+
+	"terminal.integrated.enableMultiLinePasteWarning": false,
+	"liveServer.settings.donotShowInfoMsg": true,
+	"window.titleBarStyle": "custom",
+	"window.menuBarVisibility": "compact",
+	"workbench.statusBar.visible": false,
+	"workbench.editor.pinnedTabsOnSeparateRow": true,
+	"editor.fontSize": 13.5,
+	"terminal.integrated.inheritEnv": true,
+	"explorer.confirmDelete": false,
+	"[javascriptreact]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"workbench.startupEditor": "none",
+	"workbench.editor.enablePreview": false,
+	"aws.telemetry": false,
+	"telemetry.telemetryLevel": "all",
+	"remote.SSH.useLocalServer": false,
+	"remote.SSH.showLoginTerminal": false,
+	"remote.SSH.localServerDownload": "auto",
+	"remote.SSH.logLevel": "debug",
+	"remote.SSH.lockfilesInTmp": true,
+	"remote.SSH.serverInstallPath": {
+		"bgl-ads-5517": "/nobackup/satvverm",
+		"bgl-ads-5571": "/nobackup/satvverm"
+	},
+	"remote.SSH.remotePlatform": {
+		"bgl-ads-5571": "linux",
+		"103.156.19.244": "linux"
+	},
+	"github.copilot.editor.enableAutoCompletions": true,
+	"xdev.persistent.keychainWarning": false,
+	"remote.SSH.connectTimeout": 60,
+	"chat.agent.enabled": true,
+	"chat.extensionTools.enabled": true,
+	"chat.promptFiles": true,
+	"chat.disableAIFeatures": true,
+	"chat.mcp.access": "all",
+	"C_Cpp.default.compilerPath": "/usr/bin/g++"
+}
